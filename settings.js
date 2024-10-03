@@ -45,23 +45,23 @@ global.location = "lagos, abuja, ogun state" //ur location
 
 //new
 global.botname = 'QUEEN_TENI_CLAIRE-V1' //ur bot name
-global.ownernumber = ['2347082664317'] //ur owner number, dont add more than one
-global.ownername = 'VERAN' //ur owner name
+global.ownernumber = ['24102266840'] //ur owner number, dont add more than one
+global.ownername = 'OKLMBOY' //ur owner name
 global.websitex = "https://github.com/Veran350"
 global.wagc = "https://whatsapp.com/channel/0029VajIDgjDZ4LVnxfB1Z2s"
 global.themeemoji = '⛩'
 global.wm = "Veran Bot Inc."
 global.botscript = 'https://github.com/Veran350' //script link
-global.packname = "QUEEN_TENI_CLAIRE"
-global.author = "MΛDΣ BY VERAN"
-global.creator = "https://wa.me/+2347082664317"
+global.packname = "OKLMBOY"
+global.author = "MONSTER"
+global.creator = "https://wa.me/+24102296840"
 global.xprefix = '.'
-global.premium = ["7082664317"] // Premium User
+global.premium = ["24102266840"] // Premium User
 
 //bot sett
 global.typemenu = 'v12' // menu type 'v1' => 'v12'
 global.typereply = 'v4' // reply type 'v1' => 'v4'
-global.autoblocknumber = '212' //set autoblock country code
+global.autoblocknumber = '242' //set autoblock country code
 global.antiforeignnumber = '91' //set anti foreign number country code
 global.antidelete = false //set anti delete 
 
